@@ -1,0 +1,61 @@
+body {
+    background-color:lightblue
+}
+
+#titleText {
+    text-align: center;
+}
+
+#populationHeightChart {
+    width: 47.705%;
+    margin: 0;
+    display: inline-block;
+}
+
+#confidenceIntervalChart {
+    width: 52%;
+    /*margin-bottom: -1em;*/
+    display: inline-block;
+}
+
+#intervalBox {
+    margin-bottom: 1em;
+    margin-left: 5.75em;
+}
+
+#success-rate {
+    display: inline-block;
+    text-align: center;
+    margin-left: 2em;
+
+}
+
+.sampleSlider {
+    margin: auto;
+    width: 25%;
+    display: inline-block;
+    margin-left: 4.75em;
+}
+
+#sample1 {
+    margin-left: 5.75em;
+}
+
+#reset {
+    margin-right: 20em;
+}
+
+.errorSlider {
+    margin: auto;
+    width: 38%;
+    display: inline-block;
+}
+
+#functions {
+    margin-top: -15px;
+    width: 75%;
+}
+
+.slider {
+    width: 40%;
+}
