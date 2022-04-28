@@ -1,0 +1,50 @@
+body {
+    background-color:lightblue
+}
+
+#titleText {
+    text-align: center;
+    padding-bottom: 1.5em;
+}
+
+#meansChart {
+    width: 55%;
+    float: right;
+    margin-right: 3em;
+}
+
+#differenceChart {
+    width: 55%;
+    float: right;
+    margin-right: 3em;
+    padding-bottom: 2em;
+    margin-top: 2em;
+}
+
+#function-block {
+    width: 30%;
+    margin-left: 2em;
+    display: inline-block;
+    background-color: rgb(170, 170, 170);
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+
+#radio-container {
+    margin-left: 2em;
+}
+
+.slider {
+    width: 80%;
+}
+
+#differenceSlider {
+    margin-left: 1em;
+    margin-top: 2em;
+    padding-bottom: 2em;
+    padding-top: 1.25em;
+}
+
+#sample1, #sample100, #resetSamples {
+    margin-left: 1em;
+}
